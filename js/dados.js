@@ -311,7 +311,7 @@ var MENU = {
             "price": 3
         },
         {
-            "id": "choose-your-own-new-haven-style-pizza-6-pack",
+            "id": "chossose-your-own-new-haven-style-pizza-6-pack",
             "img": "img/bobom-removebg-preview.png",
             "name": "Creme ninho",
             "dsc": "New Haven-Style Pizza - 6 Pack (Choose Your Own)",
