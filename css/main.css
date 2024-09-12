@@ -232,7 +232,7 @@ a.navbar-brand {
     position: absolute;
     width: 570px;
     top: -25px;
-    right: 17px;
+    right: -20px;
 }
 .card{
     border-radius: 20px;
@@ -287,8 +287,8 @@ a.navbar-brand {
 }
 .card-text{
     color: var(--color-white);
-    font-size: 15px;
-    padding: 0px 30px;
+    font-size: 17px;
+    padding: 0px 80px;
 }
 .card-text p{
     font-size: 22px;
@@ -420,6 +420,7 @@ a.navbar-brand {
 }
 /*img alterando.....*/
 #imagem-depoimento01{
+    top: 10px;
     left:20px!important;
 }
 #depoimento-1 .imagem-depoimento{
@@ -488,7 +489,8 @@ a.navbar-brand {
 }
 /*Footer*/
 footer{
-    background-color:#ffe8b4;
+    background-color:#000;
+    color: var(--color-white);
 }
 .logo-footer{
     width: 150px;
