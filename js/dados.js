@@ -311,14 +311,14 @@ var MENU = {
             "price": 3
         },
         {
-            "id": "23699-choose-your-own-thin-crust-pizza-4-pack",
+            "id": "choose-your-own-new-haven-style-pizza-6-pack",
             "img": "img/bobom-removebg-preview.png",
-            "name": "Cremi ninho",
-            "dsc": "Choose Your Own Thin Crust Pizza - 4 Pack",
+            "name": "Creme ninho",
+            "dsc": "New Haven-Style Pizza - 6 Pack (Choose Your Own)",
             "price": 4
         },
         {
-            "id": "choose-your-own-new-haven-style-pizza-6-pack",
+            "id": "chosose-your-own-new-haven-style-pizza-6-pack",
             "img": "img/bobom-removebg-preview.png",
             "name": "Brigadeiro(Kit Kat)",
             "dsc": "New Haven-Style Pizza - 6 Pack (Choose Your Own)",
