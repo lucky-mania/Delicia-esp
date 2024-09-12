@@ -288,7 +288,7 @@ a.navbar-brand {
 .card-text{
     color: var(--color-white);
     font-size: 17px;
-    padding: 0px 80px;
+    padding: 0px 20px;
 }
 .card-text p{
     font-size: 22px;
