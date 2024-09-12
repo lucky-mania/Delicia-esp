@@ -145,57 +145,44 @@ var MENU = {
             "img": "img/donnutsem-removebg-preview.png",
             "name": "2 mini donut",
             "dsc": "Hong Kong Boba Tea Kit for 6",
-            "price": 59
+            "price": 1.50
         },
         {
             "id": "guys-caliente-margaritas-for-12",
             "img": "img/donnutsem-removebg-preview.png",
             "name": "Caixa 6unid",
             "dsc": "Guy's Caliente Margaritas for 12",
-            "price": 69
+            "price": 3
         },
         {
             "id": "woodford-reserve-mint-julep-syrup",
             "img": "img/donnutsem-removebg-preview.png",
             "name": "Caixa 12unid",
             "dsc": "Woodford Reserve Mint Julep Syrup",
-            "price": 39
+            "price": 7
         },
         {
             "id": "new-orleans-hurricane-mix",
             "img": "img/donnutsem-removebg-preview.png",
             "name": "caixa 25unid",
             "dsc": "New Orleans Hurricane Mix",
-            "price": 39
+            "price": 35
         },
         {
             "id": "margarita-mix",
             "img": "img/donnutsem-removebg-preview.png",
             "name": "meio centro",
             "dsc": "Margarita Mix",
-            "price": 59
+            "price": 75
         },
         {
             "id": "woodford-reserve-mint-julep-syrup-2-pack",
             "img": "img/donnutsem-removebg-preview.png",
             "name": "centro",
             "dsc": "Woodford Reserve Mint Julep Syrup - 2 Pack",
-            "price": 59
+            "price": 120
         },
-        {
-            "id": "unicorn-parade-milkshake-kit-for-8",
-            "img": "img/donnutsem-removebg-preview.png",
-            "name": "New Territories",
-            "dsc": "Unicorn Parade Milkshake Kit for 8",
-            "price": 109
-        },
-        {
-            "id": "chickpea-chiller-kit-for-6",
-            "img": "img/donnutsem-removebg-preview.png  ",
-            "name": "The Hummus & Pita Co.",
-            "dsc": "Chickpea Chiller Kit for 6",
-            "price": 89
-        },
+       
 
     ],
     "pizzas": [
