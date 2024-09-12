@@ -257,8 +257,6 @@ a.navbar-brand {
     position:absolute;
     left: 0;
     right: 0;
-    height: 500px;
-    background-color: var(--color-secondary);
 }
 .servicos{
     padding:100px;
