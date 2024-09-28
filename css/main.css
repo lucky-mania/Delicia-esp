@@ -7,12 +7,12 @@
     src: url('../fonts/Poppins-Regular.otf');
 }
 :root{
-    --color-background:#0388A6;
+    --color-background:#809cf0;
     --color-black:#212121;
     --color-black-heavy:#000;
     --color-text:#4f4f4f;
     --color-text-out:#90908e;
-    --color-primary:#3854A6;
+    --color-primary:rgb(70, 70, 225);
     --color-secondary:#F2EDE4;
     --color-white:#F2EDE4;
     --color-red:#e74c3c;
@@ -115,7 +115,7 @@ b{
     font-family: 'PoppinsMedium', 'Rubik' , 'sans-serif';
 }
 #p{
-    color: var(--color-white);
+    color: var(--color-primary);
 }
 a.navbar-brand {
     margin-left: -25px;
@@ -223,7 +223,7 @@ a.navbar-brand {
     height: 450px;
     width: 450px;
     border-radius: 170px;
-    background-color: #035AA6;
+    background-color:var(--color-primary);
     position: absolute;
     right: 0;
     top: -9px;
@@ -286,7 +286,7 @@ a.navbar-brand {
     align-items: center;
 }
 .card-text{
-    color: var(--color-white);
+    color: var(--color-primary);
     font-size: 17px;
     padding: 0px 25px;
 }
@@ -314,6 +314,7 @@ a.navbar-brand {
     height: 360px;
 }
 .card-item .img-produto img{
+    background-color: rgb(117, 34, 34);
     width: 100%;
     border-radius: 11px;
 }
@@ -323,7 +324,7 @@ a.navbar-brand {
     white-space: nowrap;
     overflow: hidden;
     height: 40px;
-    margin-bottom:0px;
+    margin-bottom:0px; 
 }
 .card-item .price-produto{
     color: var(--color-black-heavy);
@@ -371,7 +372,7 @@ a.navbar-brand {
     margin-left: 15px;
 }
 .card-item:hover{
-    background-color: var(--color-primary);
+    background-color: var(--color-white);/*altera cor card*/
 }
 .card-item:hover .title-produto{
     display: none;
@@ -399,7 +400,7 @@ a.navbar-brand {
     height: 390px;
     width: 390px;
     border-radius: 120px;
-    background-color: var(--color-secondary);
+    background-color: var(--color-primary);
     position: absolute;
     left: 0;
 }
